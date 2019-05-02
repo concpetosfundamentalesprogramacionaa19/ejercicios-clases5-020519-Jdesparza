@@ -5,7 +5,7 @@
 
 from misvariables import *
 
-# uso de condicional simple
+# uso de condicional doble
 
 nota = input("Por favor ingrese la primera nota: ")
 nota2 = input("Por favor ingrese la segunda nota: ")

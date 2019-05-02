@@ -13,7 +13,7 @@
 
 from misvariables import *
 
-# uso de condicional simple
+# uso de condicional anidado
 
 nota = input("Por favor ingrese la nota: ")
 
