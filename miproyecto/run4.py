@@ -37,7 +37,7 @@ if edad <=20:
 	# Formula para encontrar el costo final a pagar por toda la carrera
 	costo_final = costocarrera_ciclos + seguro
 	# se imprime el mensaje dando a conocer es costo a pagar
-	print("Su costo final a pagar por la carrera es: %.2f" % costo_final)
+	print("Su costo final a pagar por la carrera es: %d" % costo_final)
 else:
 	# valor a pagar por cada ciclo
 	valor_promedio = 1200
@@ -48,6 +48,6 @@ else:
 	# Formula para encontrar el costo final a pagar por toda la carrera
 	costo_final = costocarrera_ciclos + seguro
 	# se imprime el mensaje dando a conocer es costo a pagar
-	print("Su costo final a pagar por la carrera es: %.2f" % costo_final)
+	print("Su costo final a pagar por la carrera es: %d" % costo_final)
 		
 
